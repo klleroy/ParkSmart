@@ -53,14 +53,14 @@ Before you can install Node, you’ll need to install two other applications. Fo
 - Follow the instructions found here: [MacOS MySQL Workbench Installation](public/assets/readme/mysqlinstall_mac.md).
 
 ## Contributing
-- Fork it (https://github.com/connorlee/project-2/fork)
-- Create your feature branch `git checkout -b feature/project-2`
+- Fork it (https://github.com/jobu206/ParkSmart/fork)
+- Create your feature branch `git checkout -b feature/ParkSmart`
 - Commit your changes `git commit -am 'Add your Message Here'`
-- Push to the branch `git push origin feature/project-2`
+- Push to the branch `git push origin feature/ParkSmart`
 - Create a new Pull Request
 
 ## Support
-- Open a new issue [here](https://github.com/connorlee/project-2/issues/new) for support.
+- Open a new issue [here](https://github.com/jobu206/ParkSmart/issues/new) for support.
 
 ## Team
 - **Connor Lee** (Back-End Design & Development) - <a href="https://connorleee.github.io/portfolio" target="_blank">https://connorleee.github.io/portfolio</a>
