@@ -7,8 +7,8 @@ function getInput() {
   }
 }
 
-function getZip() {
-  event.preventDefault();
+function getZip(e) {
+  e.preventDefault();
   clear();
 
   var zipInput = document.getElementById("user-choice").value;
